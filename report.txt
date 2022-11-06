@@ -1,0 +1,94 @@
+31/10/22
+collection :-
+There are two types of collections  in C#:-
+ non-generic collections and generic collections.
+
+Types of index:-
+1)cluster index:-
+Clustered indexes sort and store the data rows in the table or view based on their key values. 
+These are the columns included in the index definition. 
+There can be only one clustered index per table because the data rows themselves can be stored in only one order.  
+The only time the data rows in a table are stored in sorted order is when the table contains a clustered index.
+ When a table has a clustered index the table is called a clustered table. If a table has no clustered index its data rows are stored in an unordered structure called a heap.
+2)Noncluster index:-Nonclustered indexes have a structure separate from the data rows
+ A nonclustered index contains the nonclustered index key values and each key value entry has a pointer to the data row that contains the key value.
+3)unique index:-
+4)filter index 
+5)Result index
+
+create unique Index-Eid onn index employeeinformationnew (name,DepartmentId);
+drop index employeeinformationnew.UIDX_EID
+select * from employeeinformationnew
+where DepartmentId
+
+2/11/22
+Basics of Today i have gowm through .net and .netcore 
+->diference between .Net core and .net 
+2:00pm session taken by Rupesh malviya about .net overview 
+And session taken by Bhushan chandrashekar kolapkar  at 5:30pm about sql
+and we have done group discusion about project
+
+
+3/11/22
+
+I have gown through the .net overview viedio and class library
+->What is . net 
+.NET is an open-source and cross-platform development platform for building many types of applications.
+ Designed by Microsoft, the platform supports multiple programming languages and libraries to build web, mobile, desktop, IoT applications, and more.
+*) There are two type  of . net frame works  they are 
+
+-> . Net core 
+-It is  the new open-source and cross-platform framework to build applications for all operating systems including Windows, Mac, and Linux 
+.NET Core supports UWP and ASP.NET Core only. UWP is used to build Windows 10 targets Windows and mobile applications
+ ASP.NET Core is used to build browser-based web applications. 
+
+->what is use of .NET Framework or .NET Core
+
+*).NET Core is to be used for the server application when –
+
+-There is cross-platform need.
+-Targeting microservices or using Docker containers.
+-Need of high performance and scalable systems.
+-Side by side need of .NET versions per application.
+
+*).NET Framework is to be used for the server application when –
+
+-Application is to be built to run only on Windows.
+-If application uses .NET framework technologies not available for .NET Core.
+-Applications that are already running on .NET Framework.
+
+--------------------------------------------------CLASS LIBRARY-------------------------------------------------------------------------------------
+ 
+class library:-
+
+->The Framework Class Library or FCL provides the system functionality in the .NET Framework as it has various classes, data types, interfaces, etc. to perform multiple functions and build different types of applications such as desktop applications, web applications, mobile applications, etc. 
+The Framework Class Library is integrated with the Common Language Runtime (CLR) of the .NET framework and is used by all the .NET languages such as C#, F#, Visual Basic .NET, etc. 
+
+Categories in the Framework Class Library:-
+
+->The functionality of the Framework Class Library can be broadly divided into three categories i.e utility features written in .NET, wrappers around the OS functionality and frameworks. 
+These categories are not rigidly defined and there are many classes that may fit into more than one category. 
+
+Utility Features:- The utility features in the FCL includes various collection classes such as list, stack, queue, dictionary, etc. 
+and also classes for more varied manipulations such as Regex class for regular expressions.
+
+Wrappers Around OS functionality:- Some of the features in the FCL are wrappers around the underlying Windows OS functionality. 
+These include the classes for using the file system, the classes to handle the network features, the classes to handle I/O for console applications, etc.
+
+Frameworks:- There are various frameworks available in the FCL to develop certain applications. 
+For example ASP.NET is used to develop web applications, Windows Presentation Foundation (WPF) is used to render user interfaces in Windows applications
+
+->Namespaces in the Framework Class Library
+Namespaces in the Framework Class Library are a group of related classes and interfaces that can be used by all the .NET framework languages.
+
+
+
+
+session taken by prem charan about .net at 2:00pm
+
+
+4/11/22
+->Today i have disccuse about the team project 
+and we have discuse the topic about the project related 
+and 2:30 pm session taken by prem charan about the Asp .net core 
+And group descusion at 4:00pm about .net overview 
