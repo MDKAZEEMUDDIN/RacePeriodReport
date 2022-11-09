@@ -99,4 +99,29 @@ And group descusion at 4:00pm about .net overview
 ->I have created MVCCrudroperation project
 ->wE dicuss about the group project and Er diagram ,Abstract 
 
+8/11/22
+->We have discuss about the group project and created Abstract for project
+->    Booking stadium and team for the sports
+Abstract:-we can search the nearby teams and fixed match with them in particular ground according to the sports 
+Why we need this project:-
+Previously we can search the ground and book the matches but no one addressing the real issue of finding the teams who are available to play the with us that’s why we came up with idea of match making.
+Module:-
+1	Register team :-We can register our team.
+2	Booking Invitation:-  we can search all the near by teams by location and specific sports. And we can send match up invitation to a particular team.
+3	Slot Selecting :- we can select a ground to play the sports and select the slot according to the date and time. 
+4	Booking system :- If the team  confirm then we can book the ground according the time slots  and the team needs to give there user details for booking. 
+5	Payment:- For booking the ground and managerial staff team needs to pay fixed amount of  money
+6	Review :- we can give the review for the        ground or managerial  roll or about our application
+7	Backup more plans:-Host tournament :-We will host tournament  using this app people can participate  according to there reachability
+8	Borrow Player:-We can borrow any good professional players according to the teams need buy paying the money.
+-> we have created Er diagram for the cricket project  
+-> Session taken by Ramesh kumar at 2:30pm about . net framework 
+
+
+
+
+
+
+
+
 
