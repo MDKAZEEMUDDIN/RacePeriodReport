@@ -92,3 +92,11 @@ session taken by prem charan about .net at 2:00pm
 and we have discuse the topic about the project related 
 and 2:30 pm session taken by prem charan about the Asp .net core 
 And group descusion at 4:00pm about .net overview 
+
+7/11/22
+->Today we have discuss about the class library in the group 
+->WE have discuss about the  WEBAPICRUD operation project and i have perform WEBAPICRUDOPERETION project splitting the servives folder
+->I have created MVCCrudroperation project
+->wE dicuss about the group project and Er diagram ,Abstract 
+
+
