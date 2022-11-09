@@ -80,13 +80,6 @@ For example ASP.NET is used to develop web applications, Windows Presentation Fo
 
 ->Namespaces in the Framework Class Library
 Namespaces in the Framework Class Library are a group of related classes and interfaces that can be used by all the .NET framework languages.
-
-
-
-
-session taken by prem charan about .net at 2:00pm
-
-
 4/11/22
 ->Today i have disccuse about the team project 
 and we have discuse the topic about the project related 
@@ -117,8 +110,18 @@ Module:-
 -> we have created Er diagram for the cricket project  
 -> Session taken by Ramesh kumar at 2:30pm about . net framework 
 
+9/11/22
+Today we had meeting with @Afsal KC for 1.30h where we had discussion about project set up and discussed little about Git hub.
 
+from 12 we had meeting with @Rajiv R for 1  hour where he gave us some idea about Er dig and he clear our doubts regarding Er Dig.
 
+from 1.30 we had meeting with our mentor @Naveen Singh where we gave present him about our idea and he gave us some suggestion about the project and 
+demonstrate about Monolithic Architecture. its take almost 1 hour.
+
+Discussion:-
+
+Then we had an internal team meeting where we discussed about the project idea and we changed our ER dig according to the idea we had meeting we our group for 2.30 hours
+ where each of the member discussed and need to explain the idea.
 
 
 
