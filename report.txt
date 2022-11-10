@@ -123,6 +123,12 @@ Discussion:-
 Then we had an internal team meeting where we discussed about the project idea and we changed our ER dig according to the idea we had meeting we our group for 2.30 hours
  where each of the member discussed and need to explain the idea.
 
+10/11/11
+first we had a meeting with @Afsal for 30 m
+then we had meeting with Samantha about the entity framework installation it took 1 hour 
+we had a meeting with our mentor for 1 hour where we discuss about our project and he showed us how we can do our project and he gave us a demo project to understand the Architecture 
+then we spent 1 hour in discussion about the project idea and the design. 
+
 
 
 
